@@ -30,7 +30,7 @@ This submission strictly follows the assignment specifications using FastAPI, La
 
 ### 📁 Clone & Navigate
 ```bash
-git clone https://github.com/your-username/pdf-qa-app.git
+git clone https://github.com/your-username/pdf-app.git
 cd pdf-app/backend
 ```
 
@@ -144,12 +144,20 @@ To optimize response time:
 
 ## 📸 Screenshots
 - ✅ App Home Page
-- ✅ Uploading PDF
-- ✅ Asking questions
-- ✅ Answer from Mistral
-- ✅ SQLite DB storing file metadata
+  ![Screenshot_11-7-2025_234233_localhost](https://github.com/user-attachments/assets/ec3071e7-dfd0-43ab-a386-89438720fef4)
 
-*(Screenshots to be attached manually)*
+- ✅ Uploading PDF
+  <img width="1920" height="1037" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/a11d6143-0996-494f-a425-aec3bbe3b388" />
+
+- ✅ Asking questions
+  <img width="1838" height="903" alt="image" src="https://github.com/user-attachments/assets/c4bd3a2e-a8ea-4c24-bf25-c135f098819f" />
+
+- ✅ Answer from Mistral
+  <img width="1920" height="1045" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/7627b77c-9a53-4570-a4bc-2fb3f2ae9f98" />
+
+- ✅ SQLite DB storing file metadata
+<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/f83bb028-bb95-4f8f-b5bc-38394f0196f8" />
+
 
 ---
 
@@ -173,7 +181,7 @@ Thank you for the opportunity! 🙌
 
 ## 🙋‍♂️ Author
 **Name**: Bamla Varun Singh  
-**GitHub**: [singghh](https://github.com/singghh)  
+**GitHub**: [singghh](https://github.com/bamlavarunsingh)  
 **Email**: vaarunsingghh@gmail.com
 
 ---
