@@ -69,7 +69,7 @@ pdf-app/
 │   └── uploads/            # Stored PDFs
 ├── frontend/
 │   ├── src/
-│   │   └── ChatApp.jsx     # Main chat interface
+│   │   └── App.js     # Main chat interface
 │   └── public/
 │   └── ...
 ├── pdf_data.db             # SQLite DB file
